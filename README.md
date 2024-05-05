@@ -1,4 +1,4 @@
-<img src="https://images.unsplash.com/photo-1571171637578-41bc2dd41cd2?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+<img src="https://timelinecovers.pro/facebook-cover/download/android-developer-facebook-cover.jpg"
             alt="The Band" style="width:100%">
 <h1 align="center">Hello There! 👋, I'm Nadishwara</h1>
 <h3 align="center">A passionate frontend developer from Sri Lanka</h3>
