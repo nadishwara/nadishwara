@@ -15,9 +15,9 @@
 
 - 🌱 I’m currently learning **IN ICBT UNIVERSITY IN COLOMBO**
 
-- 📄 Know about my experiences [havenoexperiences](havenoexperiences)
+- 📄 Know about my experiences "Still study as a student....>" [havenoexperiences](havenoexperiences) 
 
-- ⚡ Fun fact **I think I'm Foolish**
+- ⚡ Fun fact **I Leanning Programing for Fun**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
