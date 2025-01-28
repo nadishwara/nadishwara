@@ -5,7 +5,7 @@
   [![GitHub followers](https://img.shields.io/github/followers/nadishwara?label=Follow&style=social)](https://github.com/nadishwara)
   [![Twitter Follow](https://img.shields.io/twitter/follow/gimhana96651?style=social)](https://x.com/a_gimhana96651)
   [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/iduranga-nadishwara-87a5a8231?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
-  [![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:nadishwaragimhana.lk)
+  [![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](nadishwaragimhana@gmail.com)
   
   <img src="https://komarev.com/ghpvc/?username=kdjayakody&color=3ABFEF&style=flat-square&label=Profile+Views" alt="Profile Views" />
 </div>
