@@ -12,7 +12,7 @@
 
 <h1 align="center">Hello There! 👋, I'm Nadishwara</h1>
 <h3 align="center">A passionate frontend developer from Sri Lanka</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/media/7ed7d5ca074b48b328150e5a231e8d1f.gif">
+<img align="right" alt="Coding" width="400" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExYjVsbDF5MWY5dW92MmsxNnJtdmFueGF5Zm1weGxkcDg5MHgzamZkZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.gif">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=naidhswaragimhana&label=Profile%20views&color=0e75b6&style=flat" alt="naidhswaragimhana" /> </p>
