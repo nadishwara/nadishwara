@@ -11,7 +11,7 @@
 </div>
 
 <h1 align="center">Hello There! 👋, I'm Nadishwara</h1>
-<h3 align="center">A passionate frontend developer from Sri Lanka</h3>
+<h3 align="center">I'm a undergraduate SoftWare developer from Sri Lanka, Study at Cardiffmetropolitan University.</h3>
 <img align="right" alt="Coding" width="400" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExYjVsbDF5MWY5dW92MmsxNnJtdmFueGF5Zm1weGxkcDg5MHgzamZkZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.gif">
 
 
@@ -19,11 +19,11 @@
 
 <p align="left"> <a href="https://twitter.com/mrrobot" target="blank"><img src="https://img.shields.io/twitter/follow/mrrobot?logo=twitter&style=for-the-badge" alt="mrrobot" /></a> </p>
 
-- 🌱 I’m currently learning **IN ICBT UNIVERSITY IN COLOMBO**
+- 🌱 I’m currently learning **IN ICBT UNIVERSITY IN COLOMBO AS A SOFTWARE EMGINEER**
 
-- 📄 Know about my experiences "Still study as a student....>" [havenoexperiences](havenoexperiences) 
+- 📄 Ask me about react.js, Node.js, SQL, HTML, JaveScript, CSS, C#, C++, Java
 
-- ⚡ Fun fact **I Leanning Programing for Fun**
+- ⚡ Reach me : nadishwaragimhana@gmail.com
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
