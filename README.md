@@ -19,8 +19,6 @@
 
 <p align="left"> <a href="https://twitter.com/mrrobot" target="blank"><img src="https://img.shields.io/twitter/follow/mrrobot?logo=twitter&style=for-the-badge" alt="mrrobot" /></a> </p>
 
-- 🔭 I’m currently working on **Tourism Camping site Project**
-
 - 🌱 I’m currently learning **IN ICBT UNIVERSITY IN COLOMBO**
 
 - 📄 Know about my experiences "Still study as a student....>" [havenoexperiences](havenoexperiences) 
