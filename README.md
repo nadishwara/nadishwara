@@ -1,4 +1,6 @@
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/0db68e57-4d95-4988-ab4f-df45a72983f3" />
+<p align="center">
+  <img src="https://i.pinimg.com/736x/1a/39/66/1a396677baf6ae94a62183b0019ec3f3.jpg">
+</p>
 <h1 align="center">Hi 👋, I'm Nadishwara Gimhana</h1>
 <h3 align="center">A passionate Full Stack Developer</h3>
 
